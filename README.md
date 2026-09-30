@@ -7,7 +7,14 @@ description: Public documentation for NimBuild Starter.
 
 Public documentation for NimBuild Starter, a production-ready AI SaaS starter based on Next.js.
 
-Documentation site: https://hayley-sun.github.io/nimbuild-docs/
+## NimBuild Docs Source
+
+Documentation is published at:
+
+- https://nimbuild.dev/docs
+
+Learn more about NimBuild AI:
+- https://nimbuild.dev
 
 This repository contains the MDX source files for the documentation. GitHub can preview each document directly from the links below.
 
